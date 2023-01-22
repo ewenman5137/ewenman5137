@@ -10,8 +10,8 @@ My level of language :
 
 Scale level : ⭐⭐⭐⭐⭐
 
-Python      : ⭐⭐⭐
-Java        : ⭐⭐
+Python      : ⭐⭐⭐⭐
+Java        : ⭐⭐⭐
 SQL         : ⭐⭐
 HTML        : ⭐
 CSS         : ⭐
@@ -23,4 +23,4 @@ My skills in other software :
 
 Office 365  : ⭐⭐⭐⭐
 Fusion 360  : ⭐⭐⭐⭐
-Figma       : ⭐⭐⭐
+Figma       : ⭐⭐⭐⭐⭐
